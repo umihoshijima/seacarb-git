@@ -42,7 +42,9 @@ pHinsi(pH=8.2, ALK=2.4e-3, Tinsi=20, Tlab=25, Pinsi=0, S=35, Pt=0, Sit=0,
 
 \item Millero et al. (2006): S ranging between 0.1 and 50 and T ranging between 1 and 50oC.
 
-\item Millero (2010): S ranging between 1 and 50 and T ranging between 0 and 50oC. Millero (2010) provides a K1 and K2 formulation for the seawater, total and free pH scales. Therefore, when this method is used and if P=0, K1 and K2 are computed with the formulation corresponding to the pH scale given in the flag "pHscale". 
+\item Millero (2010): S ranging between 1 and 50 and T ranging between 0 and 50oC. Millero (2010) provides a K1 and K2 formulation for the seawater, total and free pH scales. Therefore, when this method is used and if P=0, K1 and K2 are computed with the formulation corresponding to the pH scale given in the flag "pHscale".
+
+\item Waters et al. (2014): S ranging from 5 to 45 and T ranging from 0 to 45oC.
 }
 
 \emph{For Kf:}
