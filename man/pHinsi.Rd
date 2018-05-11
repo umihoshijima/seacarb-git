@@ -89,6 +89,8 @@ Millero F. J., 2010 Carbonate constant for estuarine waters. \emph{Marine and Fr
 
 Millero F. J., Graham T. B., Huang F., Bustos-Serrano H. and Pierrot D., 2006. Dissociation constants of carbonic acid in seawater as a function of salinity and temperature.  \emph{Marine Chemistry} \bold{100}, 80-84. 
 
+Perez, Fiz F. and Fraga, F, 1987. A precise and rapid analytica procedure for alkalnity determiniation. \emph{Marine Chemistry} \bold{21}, 169-182. 
+
 Uppstrom L.R., 1974 The boron/chlorinity ratio of the deep-sea water from the Pacific Ocean. \emph{Deep-Sea Research I} \bold{21} 161-162.
 
 Waters, J., Millero, F. J., and Woosley, R. J., 2014. Corrigendum to ``The free proton concentration scale for seawater pH'', [MARCHE: 149 (2013) 8-22], Marine Chemistry 165, 66-67.
